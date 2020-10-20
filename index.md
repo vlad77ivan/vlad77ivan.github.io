@@ -1,6 +1,6 @@
 ## Welcome to Vlad's homepage!
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
+![Image](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
 
 You can use the [editor on GitHub](https://github.com/vlad77ivan/vlad77ivan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
